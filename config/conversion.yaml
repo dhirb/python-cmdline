@@ -1,0 +1,11 @@
+# Multiplicative factors for dimension units with mm as base unit
+size:
+  mm: 1
+  cm: 10
+  inch: 25.4
+
+# Multiplicative factors for weight with kg as base unit
+weight:
+  kg: 1
+  g: 0.001
+  lb: 0.453592

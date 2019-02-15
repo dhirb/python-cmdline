@@ -1,0 +1,29 @@
+# Notes:
+# Dimension units are defaulted to millimeter
+# Weight is defaulted to kilogram
+# Shipping cost is defaulted to NZD
+
+# Structure:
+# packaging_type:
+#   attributes: ...
+
+small:
+  length: 200
+  breadth: 300
+  height: 150
+  weight: 25
+  cost: 5.00
+
+medium:
+  length: 300
+  breadth: 400
+  height: 200
+  weight: 25
+  cost: 7.50
+
+large:
+  length: 400
+  breadth: 600
+  height: 250
+  weight: 25
+  cost: 8.50
